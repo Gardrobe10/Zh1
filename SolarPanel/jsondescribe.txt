@@ -1,0 +1,7 @@
+
+Az alábbi fájlok (User1.json, User3.json, User6.json) szerkezete megegyezik. Mind a következőket határozzák  meg napelemekre:
+User: Az adott szakértő
+Az adott hiba típusának azonosítója ObjectIndex=ObjectClasses,
+Id; Height az adott hiba helyének (befoglaló téglalapjának) relatív magassága a kép magasságához képest;
+CenterY: az adott hiba helye (befoglaló téglalapja) középpontjának relatív y koordinátája a kép magasságához képest
+
